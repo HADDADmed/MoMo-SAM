@@ -4,10 +4,10 @@
 **Contact**: [mohhd2045@gmail.com](mailto:mohhd2045@gmail.com)
 
 <p align="center">
-  <img src="./src/MoMo_SAM/images/MoMoSamCesium (2)CompleteMap.png" alt="MoMo_SAM Complete Map Cesium Visualization" height="300"/>
-  <img src="./src/MoMo_SAM/images/MoMoSamMeshlab (2)CompleteMap.png" alt="MoMo_SAM Complete Map MeshLab Processing" height="300"/>
-  <img src="./src/MoMo_SAM/images/MoMoSamPotree (3)CompleteMap.png" alt="MoMo_SAM Complete Map Potree Visualization" height="300"/>
-  <img src="./src/MoMo_SAM/images/MoMoSamMapGnss.png" alt="MoMo_SAM GNSS Integration" height="300"/>
+  <img src="./src/MoMo_SAM/images/MoMoSamCesium (2)CompleteMap.png" alt="MoMo_SAM Complete Map Cesium Visualization" height="200"/>
+  <img src="./src/MoMo_SAM/images/MoMoSamMeshlab (2)CompleteMap.png" alt="MoMo_SAM Complete Map MeshLab Processing" height="200"/>
+  <img src="./src/MoMo_SAM/images/MoMoSamPotree (3)CompleteMap.png" alt="MoMo_SAM Complete Map Potree Visualization" height="200"/>
+  <img src="./src/MoMo_SAM/images/MoMoSamMapGnss.png" alt="MoMo_SAM GNSS Integration" height="200"/>
 </p>
 
 <p align="center">
